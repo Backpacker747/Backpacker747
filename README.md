@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Backpacker747
+- 👋 Hi, I’m Parker Lindsay
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, JavaScript, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML, CSS, JavaScript, & Python
+- 💞️ I’m looking to collaborate on building a functional website
+- 📫 How to reach me email me at Parkerslindsay@gmail.com, or Call?Text at (435) 317-3088
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
